@@ -18,4 +18,5 @@
   - Start the android emulator(Android Studio can be used)
   - Use `npx react-native start` & `npx react-native run-android`
 - To run the app on iOS
-  - Use `npx react-native run-iOS`
+  - Go to ios directory and run `pod install` (only once)
+  - Use `npx react-native run-ios`
